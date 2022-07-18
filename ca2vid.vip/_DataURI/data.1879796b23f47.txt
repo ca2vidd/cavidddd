@@ -1,0 +1,1 @@
+chrome-extension://obhacaboehinamiaoafpljgofoapchgf/helpers/content/i18n-helper.js

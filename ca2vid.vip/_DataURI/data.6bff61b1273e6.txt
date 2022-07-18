@@ -1,0 +1,1 @@
+chrome-extension://kdbfjpagopjjaiofmgodphiklmjhcnok/js/images-observer.js
